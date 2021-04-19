@@ -1,3 +1,7 @@
+Interactive portrait advertising for iPhone.
+Choose iphone 6/7/8 at the developer panel and open:
+https://anton-sedchenko.github.io/interactive-portrait-advertising/
+
 Задание:
 Создать интерактивную портретную рекламу (fullscreen). 
 Реклама должна быть адаптивной, расчитана на iPhone 7 (375 x 667 в приложении и 375 x 559 для веба) и iPhone 6s+ (414 x 736 в приложении и 414 x 622 для веба). 
